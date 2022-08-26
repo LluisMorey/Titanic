@@ -16,9 +16,9 @@ The competition is simple: use machine learning to create a model that predicts 
 
 # About the data
 
-• **Pclass** : Ticket class (1st = Upper, 2nd = Middle and 3rd = Lower)
+• <u>Pclass</u> : Ticket class (1st = Upper, 2nd = Middle and 3rd = Lower)
 
-• Sex: Gender (Male and Female)
+• **Sex: Gender (Male and Female)
 
 • Age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
 
