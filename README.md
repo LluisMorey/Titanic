@@ -52,4 +52,4 @@ The model was developed and trained using Sklearn, Feature_Engine and Imblearn. 
 
 • Model Tunning other models such as Logistic Regression, Stochastic Gradient Decent, k-Nearest Neighbor and Linear SVC
 
-• Compare the notebook with other Kaggle users to see what approach they have follow.
+• Compare the notebook with other Kaggle users to see what approach they have followed.
