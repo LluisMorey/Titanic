@@ -1,6 +1,6 @@
 # ⚓ Titanic Passengers Classification - Machine Learning
 
-![Screenshot](screenshot.jpeg)
+![Screenshot](photo1.jpeg)
 
 The Challenge
 
@@ -37,6 +37,6 @@ The competition is simple: use machine learning to create a model that predicts 
 
 # 🌿 Gradient Boosting Trees Model and its Architecture
 
-![Screenshot](screenshot2.png)
+![Screenshot](photo2.png)
 
 The model was developed and trained using Sklearn, Feature_Engine and Imblearn. Gradient Boosting Trees has been the algorithm which has performed best in this classification problem. Gradient boosting works by building simpler (weak) prediction models sequentially where each model tries to predict the error left over by the previous model.
