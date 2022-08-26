@@ -1,4 +1,4 @@
-# Titanic - Machine Learning from Disaster
+# ⚓ Titanic Passengers Classification - Machine Learning
 
 ![Screenshot](screenshot.jpeg)
 
@@ -10,13 +10,13 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
-# Goal
+# 🚨 Goal
 
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-# About the data
+# 💡 About the data
 
-• <u>Pclass</u> : Ticket class (1st = Upper, 2nd = Middle and 3rd = Lower)
+• Pclass : Ticket class (1st = Upper, 2nd = Middle and 3rd = Lower)
 
 • **Sex: Gender (Male and Female)
 
@@ -33,3 +33,10 @@ The competition is simple: use machine learning to create a model that predicts 
 • Cabin: Cabin number.
 
 • Embarked: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+
+# 🌿 Gradient Boosting Trees Model and its Architecture
+
+![Screenshot](screenshot2.png)
+
+The model was developed and trained using Sklearn, Feature_Engine and Imblearn. Gradient Boosting Trees has been the algorithm which has performed best in this classification problem. Gradient boosting works by building simpler (weak) prediction models sequentially where each model tries to predict the error left over by the previous model.
