@@ -41,6 +41,8 @@ The competition is simple: use machine learning to create a model that predicts 
 
 The model was developed and trained using Sklearn, Feature_Engine and Imblearn. Gradient Boosting Trees has been the algorithm which has performed best in this classification problem. Gradient boosting works by building simpler (weak) prediction models sequentially where each model tries to predict the error left over by the previous model.
 
+## Best results : 77.272 % accuracy
+
 
 # 🚀 Future Work
 
